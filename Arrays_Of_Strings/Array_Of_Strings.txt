@@ -1,0 +1,15 @@
+1. Write a C program to store and print a list of names using an array of strings.
+2. Create a program that finds the shortest and longest strings in an array of strings.
+3. Implement a function to count the number of vowels in each string of an array.
+4. Develop a program to sort an array of strings in lexicographical (dictionary) order.
+5. Write a program to concatenate two strings (arrays of characters) and store the result in a new string.
+6. Create a program that reads a list of sentences (arrays of strings) from the user and finds the sentence with the most words.
+7. Implement a function that searches for a specific word in an array of strings and returns its position.
+8. Develop a program that removes duplicate strings from an array of strings.
+9. Write a program to reverse the order of strings in an array.
+10. Implement a program to find the common prefix among a set of strings in an array.
+11. Create a program that implements a basic spell checker using an array of valid words and a user-entered sentence.
+12. Write a program that performs regular expression matching for a pattern against an array of strings.
+13. Develop a program that simulates a simple text editor with features like inserting, deleting, and replacing lines in an array of strings.
+14. Implement a program that finds the longest common subsequence among a set of strings in an array.
+15. Create a program that sorts an array of strings based on custom comparison criteria, such as length or a specific character.

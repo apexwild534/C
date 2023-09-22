@@ -1,0 +1,14 @@
+Basic Union Usage:
+1. Write a C program that defines a union representing a basic shape with fields for circle (radius), square (side length), and rectangle (length and width). Allow the user to enter the type of shape and its dimensions, and then calculate and display its area.
+2. Create a program that defines a union representing a student with fields for name, roll number, and grade in a course. Use the union to input and display student information.
+
+Union with Enum:
+1. Implement a program that defines a union representing a variant type (int, float, or string) using an enumeration to indicate the data type. Allow the user to input values of different types and display them.
+
+Union in a Struct:
+1. Develop a C program that defines a structure representing a person with fields for name and a union for storing either a phone number (integer) or an email address (string). Input and display contact information for multiple people.
+2. Create a program that defines a structure representing a variant type (int, float, or string) using a union inside the structure. Allow the user to input and display values of different types for multiple data items.
+
+Advanced:
+1. Write a program that defines a union representing a complex number with fields for real and imaginary parts. Implement functions to perform addition, subtraction, multiplication, and division of complex numbers using unions.
+2. Implement a program that reads data from a binary file containing records of different types (integers, floats, or strings) using a union to interpret and display the data correctly.

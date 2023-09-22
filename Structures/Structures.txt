@@ -1,0 +1,19 @@
+Basic Structure Usage:
+1. Write a C program that defines a structure representing a point in 2D space and calculates the distance between two points.
+2. Create a program that defines a structure representing a student with fields for name, roll number, and marks, and calculates the average marks for a group of students.
+3. Implement a program that defines a structure representing a book with fields for title, author, and price, and displays the details of a book.
+
+Structure Arrays:
+1. Develop a C program that uses an array of structures to store information about employees (name, employee ID, and salary) and finds the employee with the highest salary.
+2. Create a program that defines a structure to represent a date (day, month, year) and sorts an array of dates in chronological order.
+
+Nested Structures:
+1. Write a program that defines a structure representing a person with fields for name, address (another structure), and age, and displays the details of a person.
+2. Implement a C program that defines a structure representing a department with fields for department name and employees (an array of structures), and calculates the average salary for the department.
+
+File Handling with Structures:
+1. Develop a program that reads a list of student records from a file into an array of structures and then writes the records back to another file.
+2. Create a program that reads a list of books from a file, stores them in an array of structures, and displays the books sorted by price.
+
+Advanced:
+1. Write a C program that implements a simple inventory management system using structures. The program should allow users to add, update, delete, and search for products in the inventory.

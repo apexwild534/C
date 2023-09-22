@@ -1,0 +1,15 @@
+1. Write a C program that prints numbers from 1 to 10 using a while loop.
+2. Create a program that calculates and prints the sum of all even numbers from 1 to 20 using a while loop.
+3. Implement a program that displays the multiplication table (up to 10) for a given number using a while loop.
+4. Develop a C program that calculates and displays the factorial of a user-entered integer using a while loop.
+5. Write a program that generates and prints the Fibonacci sequence up to the nth term (user input) using a while loop.
+6. Create a program that prompts the user for a number and prints whether it's a prime number or not using a while loop.
+7. Implement a program that finds and prints all prime numbers in a given range (user input) using a while loop.
+8. Write a program that calculates and displays the nth term of the geometric progression (a, ar, ar^2, ...) using a while loop.
+9. Create a C program that simulates a basic calendar for a specified month (user input) using a while loop to print the days of the week and dates.
+10. Develop a program that generates and prints Pascal's Triangle up to a specified number of rows (user input) using nested while loops.
+11. Write a program that simulates the game of Tic-Tac-Toe, allowing two players to take turns using a while loop to alternate between them.
+12. Implement a program that generates and prints the prime factors of a user-entered number using a while loop and nested loops.
+13. Create a C program that prints all Pythagorean triples (a, b, c) up to a specified limit (user input) using nested while loops.
+14. Write a program that calculates and displays the nth term of the series 1^1 + 2^2 + 3^3 + ... + n^n using a while loop.
+15. Develop a program that solves the Tower of Hanoi puzzle for a given number of disks (user input) using a recursive while loop implementation.

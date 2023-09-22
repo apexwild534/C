@@ -1,0 +1,15 @@
+1. Write a C program to find the sum of all elements in an integer array.
+2. Create a program to find the largest element in an array of integers.
+3. Write a program that calculates the average of elements in a floating-point array.
+4. Implement a program to reverse an array of characters in place.
+5. Develop a program that checks if an element exists in an integer array.
+6. Write a C program to find the second-largest element in an array of integers.
+7. Create a program to remove duplicate elements from an integer array.
+8. Implement a program that performs matrix addition for two given matrices using arrays.
+9. Develop a program to find the intersection of two integer arrays and store the result in a third array.
+10. Write a program that finds the kth smallest element in an unsorted integer array.
+11. Implement a program to rotate an array of integers to the right by a specified number of positions.
+12. Create a program to perform a binary search on a sorted array of integers.
+13. Write a C program to implement a stack using an array and perform push and pop operations.
+14. Develop a program that finds the longest increasing subsequence in an integer array.
+15. Create a program to perform matrix multiplication for two given matrices using arrays.

@@ -1,0 +1,10 @@
+1. Write a recursive C function to calculate the factorial of a non-negative integer.
+2. Implement a recursive function to find the nth Fibonacci number0.
+3. Create a program that calculates the sum of natural numbers from 1 to N using recursion.
+4. Develop a recursive function to reverse a string.
+5. Write a recursive C program to calculate the greatest common divisor (GCD) of two integers using Euclid's algorithm.
+6. Implement a recursive function to compute the power of a number (x^n) efficiently.
+7. Create a program that recursively finds the nth term of the geometric progression (a, ar, ar^2, ...).
+8. Develop a recursive function to check if a string is a palindrome.
+9. Write a C program to solve the Tower of Hanoi problem for a given number of disks using recursion.
+10. Implement a recursive function to generate all permutations of a given string.

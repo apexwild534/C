@@ -1,0 +1,15 @@
+1. Write a C program to find the sum of elements in an integer array using pointers.
+2. Create a program that calculates the average of elements in a floating-point array using pointers.
+3. Implement a function that finds the maximum element in an integer array using pointers.
+4. Develop a program that reverses the elements of an integer array using pointers.
+5. Write a program that swaps the first and last elements of an integer array using pointers.
+6. Create a program that sorts an integer array in ascending order using pointers and the bubble sort algorithm.
+7. Write a program to concatenate two strings (character arrays) using pointers.
+8. Implement a function that searches for a specific element in an integer array using pointers.
+9. Develop a program that reads a matrix (2D array) from the user and calculates its transpose using pointers.
+10. Create a program that performs matrix multiplication for two given matrices using pointers.
+11. Write a program to implement a dynamic array (an array that resizes itself) using pointers.
+12. Implement a program that simulates a basic database system using an array of structs and pointers to manipulate the data.
+13. Develop a program that performs a binary search on a sorted array of integers using pointers.
+14. Create a program that finds the longest increasing subsequence in an integer array using pointers and dynamic programming.
+15. Write a program that calculates the determinant of a square matrix using pointers and recursion.

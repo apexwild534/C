@@ -1,0 +1,6 @@
+Title1 Author1 25.99
+Title2 Author2 19.95
+Title3 Author1 32.50
+Title4 Author3 14.75
+Title5 Author2 21.99
+Title6 Author4 9.99

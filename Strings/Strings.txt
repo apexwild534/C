@@ -1,0 +1,15 @@
+1. Write a C program to find the length of a string (without using the strlen function).
+2. Create a program that copies one string into another using a loop.
+3. Implement a function that checks if a given string is a palindrome.
+4. Write a program to count the number of vowels and consonants in a string.
+5. Develop a program that reverses a string in place.
+6. Create a program that removes all spaces from a given string.
+7. Implement a function that counts the occurrences of a substring within a larger string.
+8. Write a program that converts a string to its lowercase equivalent.
+9. Develop a program that checks if two strings are anagrams (contain the same characters in a different order).
+10. Create a program that tokenizes a sentence into words and stores them in an array of strings.
+11. Implement a function to perform a string search using the Knuth-Morris-Pratt algorithm.
+12. Write a program to find the longest common substring between two strings.
+13. Create a program that simulates a basic text editor with operations like insertion, deletion, and undo.
+14. Develop a program that performs regular expression matching for a given pattern and string.
+15. Write a program that compresses a string using the Run-Length Encoding (RLE) algorithm.

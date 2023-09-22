@@ -1,0 +1,5 @@
+4
+Introduction to C Programming John Smith 29.99
+Data Structures and Algorithms Jane Doe 39.95
+C++ Programming Basics David Johnson 19.99
+Python for Beginners Emily Wilson 24.95

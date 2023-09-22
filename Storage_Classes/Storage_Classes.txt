@@ -1,0 +1,23 @@
+Auto Storage Class:
+1. Write a C program that demonstrates the auto storage class by declaring and using auto variables in a function.
+2. Create a program that calculates the factorial of a number using recursion and auto variables.
+3. Implement a function that counts the number of function calls using the auto storage class.
+
+Static Storage Class:
+1. Develop a program that uses a static variable to keep track of the number of times a function has been called.
+2. Write a C program that generates Fibonacci numbers using recursion and static variables for memoization.
+3. Create a program that maintains a static array to store and retrieve historical data.
+
+Register Storage Class:
+1. Implement a C program that uses the register storage class for optimizing a loop with a frequently accessed variable.
+2. Write a program that benchmarks the performance difference between using a register variable and a regular variable in a computation-heavy function.
+3. Develop a program that counts the number of times a function is called, using both register and non-register variables, and compares their performance.
+
+Extern Storage Class:
+1. Create a program with multiple source files where an extern variable is declared in one file and used in another file.
+
+Extra:
+1. Implement a program that demonstrates the use of all four storage classes (auto, static, register, extern) in a single program.
+2. Write a program that simulates a simple memory management system using a static array to allocate and deallocate memory blocks.
+3. Create a C program that measures the execution time of a function using the clock() function and a static variable.
+4. Develop a program that implements a simple task scheduler using static variables to track task states and execution.

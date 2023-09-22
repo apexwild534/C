@@ -1,0 +1,15 @@
+Basic Enum Usage:
+1. Write a C program that defines an enumeration representing the days of the week (Monday, Tuesday, etc.) and allows the user to enter a day number (1 for Monday, 2 for Tuesday, etc.) and displays the corresponding day.
+2. Create a program that defines an enumeration for the months of the year (January, February, etc.) and displays the number of days in a given month.
+3. Implement a C program that defines an enumeration for simple shapes (circle, square, triangle) and calculates the area of a shape chosen by the user.
+
+Enums with Custom Values:
+1. Develop a program that defines an enumeration representing suit values in a deck of cards (hearts, diamonds, clubs, spades) and allows the user to input a suit and displays it.
+2. Create a program that defines an enumeration representing error codes (e.g., success, failure, invalid input) and displays a message based on the error code returned from a function.
+
+Enums in Structs:
+1. Write a program that defines a structure representing a date (day, month, year) and uses enumerations for months and days of the week. Allow the user to input a date and display it in a user-friendly format.
+2. Implement a C program that defines a structure representing a geometric shape with an enumeration for the type of shape (circle, square, rectangle) and fields for dimensions. Allow the user to input and display shape information.
+
+Advanced Enums:
+1. Create a program that defines an enumeration representing keyboard key codes (e.g., A, B, Enter, Escape) and simulates typing a sequence of keys to enter a user-defined message.

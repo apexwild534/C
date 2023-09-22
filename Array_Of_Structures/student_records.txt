@@ -1,0 +1,6 @@
+Alice 101 89.5
+Bob 102 75.0
+Charlie 103 92.3
+David 104 80.7
+Eva 105 88.1
+Frank 106 94.5

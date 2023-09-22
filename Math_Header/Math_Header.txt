@@ -1,0 +1,21 @@
+Using Constants:
+1. Write a C program that calculates the circumference of a circle with a given radius using the M_PI constant.
+2. Create a program that calculates the area of a triangle given its base and height using the M_PI constant.
+3. Implement a program that calculates the volume of a sphere with a specified radius using the M_PI constant.
+
+Using Common Math Functions:
+1. Write a program that takes an angle in degrees and converts it to radians using the M_PI constant.
+2. Create a C program that calculates the square root of a user-entered number using the sqrt function.
+3. Implement a simple calculator program that allows users to perform exponentiation using the pow function.
+
+Trigonometric Functions:
+1. Develop a program that calculates the length of the hypotenuse of a right-angled triangle using the hypot function.
+2. Write a C program that finds the angle in degrees between two vectors using trigonometric functions.
+3. Create a program that calculates the area of a sector of a circle given its radius and central angle using trigonometric functions.
+
+Exponential and Logarithmic Functions:
+1. Implement a compound interest calculator program that uses the exp and log functions to calculate the final amount given principal, rate, and time.
+
+Rounding Functions:
+1. Write a program that rounds a user-entered floating-point number to the nearest integer using the round function.
+2. Create a program that calculates the remainder of the division of two user-entered numbers using the fmod function.

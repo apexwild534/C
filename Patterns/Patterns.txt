@@ -1,0 +1,16 @@
+1. Right Half Pyramid Pattern
+2. Left Half Pyramid Pattern
+3. Full Pyramid Pattern
+4. Inverted Right Half Pyramid Pattern
+5. Inverted Left Half Pyramid Pattern
+6. Inverted Full Pyramid Pattern
+7. Rhombus Pattern
+8. Diamond Pattern
+9. Hourglass Pattern
+10. Hollow Square Pattern
+11. Hollow Full Pyramid Pattern
+12. Hollow Inverted Full Pyramid Pattern
+13. Hollow Diamond Pattern
+14. Hollow Hourglass Pattern
+15. Floyd’s Triangle Pattern
+16. Pascal’s Triangle Pattern

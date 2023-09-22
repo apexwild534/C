@@ -1,0 +1,10 @@
+1 .Write a C program that reads from a text file.
+2. Write a C program that creates a text file and writes a message to it.
+3. Create a program that reads a text file and displays its contents on the console.
+4. Implement a program that reads a list of numbers from a text file, calculates their sum, and writes the result to another file.
+5. Write a C program that copies the contents of one text file to another.
+6. Create a program that reads a binary file containing student records (name, roll number, and marks) and calculates the average marks of all students.
+7. Implement a program that reads a large text file line by line and counts the number of words in each line, storing the results in another text file.
+8. Develop a program that simulates a basic address book with options to add, search, update, and delete records stored in a binary file.
+9. Write a program that creates and manipulates a binary file representing a simple database, allowing users to add, update, and query records.
+10. Create a program that reads and processes a large binary file containing data records with variable lengths, extracting and displaying specific information.

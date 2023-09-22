@@ -1,0 +1,15 @@
+1. Write a C program to find the factorial of a given integer using a function.
+2. Create a function that checks if a number is prime or not and use it to print all prime numbers up to a specified limit.
+3. Implement a function that calculates the area of a circle given its radius as an argument.
+4. Write a program that swaps two integers using a function.
+5. Develop a function to calculate the sum of digits in an integer.
+6. Create a program that finds the greatest common divisor (GCD) of two integers using a function.
+7. Write a C program to calculate the nth Fibonacci number using a recursive function.
+8. Implement a function to reverse a string and then use it to reverse a sentence (a string of words).
+9. Develop a function to sort an array of integers in ascending order using the bubble sort algorithm.
+10. Create a program that calculates the area of a triangle given its three sides using a function.
+11. Write a program that finds the roots of a quadratic equation (ax^2 + bx + c = 0) using a function.
+12. Implement a recursive function to solve the Tower of Hanoi problem for a given number of disks.
+13. Create a program that performs matrix addition and multiplication using functions.
+14. Develop a function to calculate the power of a number (x^n) efficiently using recursion.
+15. Write a program that reads a list of numbers from a file, processes them using functions, and writes the results back to another file.

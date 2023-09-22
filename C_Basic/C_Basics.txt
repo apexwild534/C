@@ -1,0 +1,15 @@
+1. Write a C program to print "Hello, World!" to the console.
+2. Create a program that reads an integer from the user and prints its square.
+3. Write a program to calculate the sum of two integers entered by the user.
+4. Create a program that checks whether a given number is even or odd.
+5. Write a program to find the maximum of three numbers entered by the user.
+6. Implement a C program to calculate the factorial of a non-negative integer using a loop.
+7. Write a program that checks if a given year is a leap year or not.
+8. Create a program to find the prime factors of a given integer.
+9. Implement a simple calculator program that can perform addition, subtraction, multiplication, and division operations.
+10. Write a program to find the Fibonacci series up to a specified term using loops.
+11. Develop a program that reads a text file and counts the number of words and characters in it.
+12. Create a program that simulates a basic banking system with functionalities like account creation, deposit, withdrawal, and balance inquiry.
+13. Implement a C program to solve the Tower of Hanoi problem for a given number of disks.
+14. Write a program to perform matrix multiplication for two given matrices.
+15. Develop a program that reads a list of integers from a file, sorts them, and then writes them back to the file.

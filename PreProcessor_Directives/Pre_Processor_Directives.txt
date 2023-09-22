@@ -1,0 +1,10 @@
+1. Create a C program that uses the #define directive to define a constant and then prints its value.
+2. Write a program that uses the #include directive to include a user-defined header file and use functions declared in it.
+3. Develop a program that uses conditional compilation (#ifdef and #ifndef) to include different code blocks based on the presence of a macro.
+4. Implement a C program that uses the #undef directive to undefine a previously defined macro.
+5. Create a program that uses a macro to calculate the square of a number and prints the result.
+6. Write a program that uses a macro to find the maximum of two numbers.
+7. Develop a program that uses a macro to swap two variables of a given data type.
+8. Implement a program that uses the #include directive to include standard C library headers and demonstrates their usage.
+9. Write a C program that uses a preprocessor directive to create a simple header file containing macro definitions and includes that header in the main program.
+10. Create a program that uses conditional compilation (#ifdef and #ifndef) to include different header files based on the platform (e.g., Windows or Linux) where the code is compiled.

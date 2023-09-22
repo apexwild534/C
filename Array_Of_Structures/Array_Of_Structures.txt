@@ -1,0 +1,17 @@
+Basic Array of Structures:
+1. Write a C program that defines a structure representing a book with fields for title, author, and price. Create an array of structures to store information about multiple books and display the details of each book.
+2. Create a program that defines a structure representing a student with fields for name, roll number, and marks in three subjects. Use an array of structures to store information about a class of students and calculate their average marks.
+3. Implement a C program that defines a structure representing a car with fields for make, model, and year. Create an array of structures to store information about a fleet of cars and print the details of all cars.
+
+Array of Structures with Sorting:
+1. Develop a program that defines a structure representing an employee with fields for name, employee ID, and salary. Create an array of structures to store information about multiple employees and find the employee with the highest salary.
+2. Write a program that defines a structure representing a product with fields for name, price, and quantity. Create an array of structures to store information about multiple products and sort them based on price or name.
+
+File Handling with Array of Structures:
+1. Create a program that reads a list of student records from a file into an array of structures and then calculates the highest and lowest marks in the class.
+2. Develop a program that reads a list of books from a file, stores them in an array of structures, allows users to search for books by author, and displays the results.
+
+Advanced:
+1. Implement a C program that simulates a simple library management system using an array of structures. The program should allow users to add, update, delete, and search for books in the library.
+2. Write a program that defines a structure representing a bank account with fields for account number, account holder's name, and balance. Create an array of structures to represent multiple accounts, perform transactions, and generate account statements.
+3. Develop a program that manages a list of employees in an organization using an array of structures. The program should allow users to add new employees, update employee details, and generate reports based on various criteria.

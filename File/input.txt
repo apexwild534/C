@@ -1,0 +1,4 @@
+This is a sample sentence.
+It contains several words.
+Each word is separated by a space.
+The program will count the words in each line.
